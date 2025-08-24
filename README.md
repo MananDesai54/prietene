@@ -1,1 +1,2 @@
-# prietene
+# Prietene
+- A Friendly Ai
